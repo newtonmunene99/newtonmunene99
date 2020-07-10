@@ -1,4 +1,5 @@
-### Hi there 👋
+# The Variable Man
+###### Newton Munene
 
 <!--
 **newtonmunene99/newtonmunene99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
