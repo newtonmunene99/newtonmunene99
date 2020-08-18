@@ -7,7 +7,7 @@
 
 <hr>
 <details>
-  <summary>Contact me</summary>
+  <summary>📫 How to reach me</summary>
   <br>
   <ul>
     <li>
