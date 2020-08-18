@@ -1,11 +1,15 @@
 # The Variable Man
 
+Newton Munene is an enthusiastic developer who loves building things using software. My main stack currenctly includes Javascript for the web/backend and dart for flutter development.
+
+## Stats
 
 [![Newtons's github stats](https://github-readme-stats.vercel.app/api?username=newtonmunene99&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/newtonmunene99)
 
 [![Newtons's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=newtonmunene99&theme=radical)](https://github.com/newtonmunene99)
 
-<hr>
+## Contact
+
 <details>
   <summary>📫 How to reach me</summary>
   <br>
