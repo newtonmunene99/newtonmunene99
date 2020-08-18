@@ -5,8 +5,6 @@
 
 [![Newtons's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=newtonmunene99&theme=radical)](https://github.com/newtonmunene99)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=newtonmunene99)
-
 <hr>
 <details>
   <summary>Contact me</summary>
@@ -30,10 +28,10 @@
     <li>
       <a href="https://www.newtonmunene.me/">Website</a>
     </li>
-  
   </ul>
-  
 </details>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=newtonmunene99)
 <!--
 **newtonmunene99/newtonmunene99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
