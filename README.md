@@ -1,5 +1,11 @@
 # The Variable Man
-###### Newton Munene
+
+
+[![Newtons's github stats](https://github-readme-stats.vercel.app/api?username=newtonmunene99&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/newtonmunene99)
+
+[![Newtons's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=newtonmunene99&theme=radical)](https://github.com/newtonmunene99)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=newtonmunene99)
 
 <!--
 **newtonmunene99/newtonmunene99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
