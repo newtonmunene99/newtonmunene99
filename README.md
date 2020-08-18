@@ -7,6 +7,33 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=newtonmunene99)
 
+<hr>
+<details>
+  <summary>Contact me</summary>
+  <br>
+  <ul>
+    <li>
+      <a href="https://twitter.com/newtonmunene_yg">Twitter</a>
+    </li>
+    <li>
+      <a href="https://www.instagram.com/nen.e_/">Instagram</a>
+    </li>
+    <li>
+      <a href="https://facebook.com/newtonmunene99">Facebook</a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/in/newtonmunene/">Linkedin</a>
+    </li>
+    <li>
+      <a href="mailto:newtonmunenecodes@gmail.com?Subject=Hey%20Champ.%20I%20have%20a%20proposal.">Email</a>
+    </li>
+    <li>
+      <a href="https://www.newtonmunene.me/">Website</a>
+    </li>
+  
+  </ul>
+  
+</details>
 <!--
 **newtonmunene99/newtonmunene99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
