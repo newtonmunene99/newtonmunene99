@@ -21,9 +21,6 @@ Newton Munene is an enthusiastic developer who loves building things using softw
       <a href="https://www.instagram.com/nen.e_/">Instagram</a>
     </li>
     <li>
-      <a href="https://facebook.com/newtonmunene99">Facebook</a>
-    </li>
-    <li>
       <a href="https://www.linkedin.com/in/newtonmunene/">Linkedin</a>
     </li>
     <li>
