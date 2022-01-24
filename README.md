@@ -18,16 +18,13 @@ Newton Munene is an enthusiastic developer who loves building things using softw
       <a href="https://twitter.com/newtonmunene_yg">Twitter</a>
     </li>
     <li>
-      <a href="https://www.instagram.com/nen.e_/">Instagram</a>
-    </li>
-    <li>
       <a href="https://www.linkedin.com/in/newtonmunene/">Linkedin</a>
     </li>
     <li>
       <a href="mailto:newtonmunenecodes@gmail.com?Subject=Hey%20Champ.%20I%20have%20a%20proposal.">Email</a>
     </li>
     <li>
-      <a href="https://www.newtonmunene.me/">Website</a>
+      <a href="https://www.newtonmunene.dev/">Website</a>
     </li>
   </ul>
 </details>
