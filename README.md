@@ -1,6 +1,6 @@
 # The Variable Man
 
-Newton Munene is an enthusiastic developer who loves building things using software. My main stack currenctly includes Javascript for the web/backend and dart for flutter development.
+Newton Munene is an enthusiastic developer who loves solving problems using software. My main stack is currently focused on Golang for the backend.
 
 ## Stats
 
